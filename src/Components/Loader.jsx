@@ -9,7 +9,6 @@ const Loader = ({height,width}) => {
   width={width || 80}
   radius="9"
   color="green"
-  
 />
     </div>
    
